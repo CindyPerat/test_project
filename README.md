@@ -1,7 +1,5 @@
 # Installation du projet
 
----
-
 ## Récupérer le code
 * ```git clone git@github.com:CindyPerat/test_project.git```
 
@@ -20,8 +18,6 @@ _La base de données doit être préalablement créée._
 Le site est maintenant consultable via ce lien : [https://127.0.0.1:8000](https://127.0.0.1:8000)
 
 # Routes
-
----
 
 * Le formulaire de contact : /
 * La liste des contacts via l'API : /api/contacts
